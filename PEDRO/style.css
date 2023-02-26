@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: red;
+    height: 60px;
+    padding: 7px;
+}
+
+
+header h1{
+    color: white;
+    text-align: center;
+}
+
+.body{
+    height: 100vh;
+}
+
+
+footer{
+    background-color: red;
+    height: 60px;
+}
+
+footer p{
+    padding: 7px;
+    color: white;
+    text-align: center;
+}
